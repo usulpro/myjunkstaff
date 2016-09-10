@@ -18,3 +18,8 @@
 [![PeerDependencies](https://img.shields.io/david/peer/callemall/material-ui.svg?style=flat-square)](https://david-dm.org/callemall/material-ui#info=peerDependencies&view=list)
 [![Dependencies](https://img.shields.io/david/callemall/material-ui.svg?style=flat-square)](https://david-dm.org/callemall/material-ui)
 [![DevDependencies](https://img.shields.io/david/dev/callemall/material-ui.svg?style=flat-square)](https://david-dm.org/callemall/material-ui#info=devDependencies&view=list)
+
+## some more
+
+ [![Build Status](https://travis-ci.org/kadirahq/react-storybook.svg?branch=master)](https://travis-ci.org/kadirahq/react-storybook) [![npm version](https://badge.fury.io/js/%40kadira%2Fstorybook.svg)](https://badge.fury.io/js/%40kadira%2Fstorybook) [![Storybook Slack](https://storybooks-slackin.herokuapp.com/badge.svg)](https://storybooks-slackin.herokuapp.com/)
+ 
