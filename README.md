@@ -22,4 +22,5 @@
 ## some more
 
  [![Build Status](https://travis-ci.org/kadirahq/react-storybook.svg?branch=master)](https://travis-ci.org/kadirahq/react-storybook) [![npm version](https://badge.fury.io/js/%40kadira%2Fstorybook.svg)](https://badge.fury.io/js/%40kadira%2Fstorybook) [![Storybook Slack](https://storybooks-slackin.herokuapp.com/badge.svg)](https://storybooks-slackin.herokuapp.com/)
+ [![npm downloads](https://img.shields.io/npm/dm/react-scrollbar.svg?style=flat-square)](https://www.npmjs.org/package/react-scrollbar)
  
