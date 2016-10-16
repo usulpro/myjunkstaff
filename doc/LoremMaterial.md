@@ -1,6 +1,6 @@
 
 ## Material content filling
-![Material](ic_account_balance_black_48dp_1.png)
+![Material](ic_account_balance_black_48dp_1x.png)
 For easy themes design we required a realistic-looking content. It will be possible to try out different themes and immediately see how they look. For this we feel the need of help by designers and front-end developers in material design. Therefore, we are opening this trend and attract #hacktoberfest participants. We welcome all who wish to contribute.
 We propose to fill this library by adding small pages or applications - each in a separate [story](https://sm-react.github.io/storybook-addon-material-ui/?theme-ind=0&theme-sidebar=false&theme-full=false&selectedKind=Material%20App&selectedStory=Hactoberfest%20issues%3A&full=0&down=1&left=1&panelRight=0&downPanel=sm%2Fstorybook-addon-material-ui%2Fmaterial-panel). They should be made in the material design style and look like a real application (no need to use real data). We are pleased to see various interesting applications, but you can try your hand at creating something simple.
 We do not impose special restrictions to create pages, but please keep the following:
