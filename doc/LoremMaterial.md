@@ -14,11 +14,11 @@ We do not impose special restrictions to create pages, but please keep the follo
 ### to initiate the participation [make a fork](https://github.com/sm-react/storybook-addon-material-ui/fork).
 Take `example/LoremMaterial/blankMaterialAppExampleProgress.jsx` as a starting point of development.
 
-This project is built on the [React Storybook](https://getstorybook.io/docs) platform. It's a great basis for creating react components and applications. We create each `Lorem Material Page` as a separate `React Compenent` and add them as a story into storybook [follows](https://github.com/sm-react/storybook-addon-material-ui/blob/master/example/stories/index.js#L48)
+This project is built on the [React Storybook](https://getstorybook.io/docs) platform. It's a great basis for creating React components and applications. We create each `Lorem Material Page` as a separate `React Compenent` and add them as a story into storybook [follows](https://github.com/sm-react/storybook-addon-material-ui/blob/master/example/stories/index.js#L48)
 
 We use material-ui components from [Material-UI](http://www.material-ui.com/#/) set  - The most popular and complete library for React that Implement Google's Material Design.
 
-The aim of our [project](https://github.com/sm-react/storybook-addon-material-ui) is to create a comfortable environment for designers and developers allows them to work with react components based on the use of the [theming](https://facebook.github.io/react/docs/context.html#passing-info-automatically-through-a-tree). This approach allows us to divide the functionality and appearance of components. Teming can transmit various data and properties in components: color, size, styles, and the like. We are working to expand the available options.
+The aim of our [project](https://github.com/sm-react/storybook-addon-material-ui) is to create a comfortable environment for designers and developers allows them to work with React components based on the use of the [theming](https://facebook.github.io/react/docs/context.html#passing-info-automatically-through-a-tree). This approach allows us to divide the functionality and appearance of components. Teming can transmit various data and properties in components: color, size, styles, and the like. We are working to expand the available options.
 
 We support [Material-UI Themes](http://www.material-ui.com/#/customization/themes) now.
 
