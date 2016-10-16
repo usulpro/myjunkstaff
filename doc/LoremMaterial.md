@@ -69,5 +69,5 @@ git commit -m «my ready to PR story»
 git push
 
 ```
-- Make  Pull request from your repo in Github.
+- Make  Pull request from your Github repo.
 
