@@ -11,7 +11,7 @@ We do not impose special restrictions to create pages, but please keep the follo
 - Should not copy an already existing [story](https://sm-react.github.io/storybook-addon-material-ui)
 - Each story in a separate file (or a folder)
 
-### to initiate the participation [make a fork](https://github.com/sm-react/storybook-addon-material-ui/fork).
+### to initiate the participation [fork this project](https://github.com/sm-react/storybook-addon-material-ui/fork).
 Take `example/LoremMaterial/blankMaterialAppExampleProgress.jsx` as a starting point of development.
 
 This project is built on the [React Storybook](https://getstorybook.io/docs) platform. It's a great basis for creating React components and applications. We create each `Lorem Material Page` as a separate `React Compenent` and add them as a story into storybook [follows](https://github.com/sm-react/storybook-addon-material-ui/blob/master/example/stories/index.js#L48)
