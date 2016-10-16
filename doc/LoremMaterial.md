@@ -36,6 +36,8 @@ don't forget to register on the [hacktoberfest]() to win a t-shirt
 - clone your repo to local machine and install
 ```
 git clone https://github.com/YOUR-NAME/storybook-addon-material-ui.git
+cd storybook-addon-material-ui
+npm i
 ```
 
 - Find `example/LoremMaterial/blankMaterialAppExampleProgress.jsx` and use it as a blank to start developing.
