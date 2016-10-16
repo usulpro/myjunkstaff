@@ -1,7 +1,7 @@
 
 ## Material content filling
 
-For easy themes design we need a realistic-looking content. It will be possible to try out different themes and immediately see how they look. For this we need the help of designers and front-end developers in material design. Therefore, we are opening this trend and attract #hacktoberfest participants. We welcome all who wish to contribute.
+For easy themes design we required a realistic-looking content. It will be possible to try out different themes and immediately see how they look. For this we feel the need of help by designers and front-end developers in material design. Therefore, we are opening this trend and attract #hacktoberfest participants. We welcome all who wish to contribute.
 We propose to fill this library by adding small pages or applications - each in a separate [story](). They should be made in the material design style and look like a real application (no need to use real data). We are pleased to see various interesting applications, but you can try your hand at creating something simple.
 We do not impose special restrictions to create pages, but please keep the following:
 - It should be in the Material Design style
