@@ -16,4 +16,10 @@ the [tricky root](../../../)
 
 <span style="color: red;"> I'm RED </span>
 
+<b> bold </b>
+
+<red> red </red>
+
+<h1 style="color:blue;margin-left:30px;">This is a heading.</h1>
+
 <a href="/../../">New Tab</a>
