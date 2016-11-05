@@ -8,4 +8,4 @@ the [real root](/)
 
 the [real root](../)
 
-[tricky root](/../../)
+[tricky root](/../../tree/test)
