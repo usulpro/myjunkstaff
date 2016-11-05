@@ -15,3 +15,7 @@ delete(!) [doc/readme.md](/../../delete/master/doc/readme.md)
 blame [doc/readme.md](/../../blame/master/doc/readme.md)
 
 raw file [doc/readme.md](/../../raw/master/doc/readme.md) 
+
+new file in [doc/](/../../new/master/doc/) 
+
+new file in [doc/newSubFolder](/../../new/master/doc/newSubFolder) 
