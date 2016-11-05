@@ -11,3 +11,7 @@ the [real root](../)
 the [tricky root](/../../)
 
 the [tricky root](../../../)
+
+<base target="_blank"> 
+
+<a href="/../../">New Tab</a>
