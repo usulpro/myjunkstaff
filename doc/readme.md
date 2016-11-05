@@ -8,7 +8,7 @@ another brunch [test_brunch](/../../tree/test)
 
 edit [doc/readme.md](/../../edit/master/doc/readme.md) 
 
-history [doc/readme.md](/../../commits/master/doc/readme.mdd) 
+history [doc/readme.md](/../../commits/master/doc/readme.md) 
 
 delete(!) [doc/readme.md](/../../delete/master/doc/readme.md)
 
