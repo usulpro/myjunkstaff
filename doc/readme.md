@@ -14,4 +14,6 @@ the [tricky root](../../../)
 
 <base target="_blank"> 
 
+<span style="color: red;"> I'm RED </span>
+
 <a href="/../../">New Tab</a>
