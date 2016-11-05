@@ -19,3 +19,7 @@ raw file [doc/readme.md](/../../raw/master/doc/readme.md)
 new file in [doc/](/../../new/master/doc/) 
 
 new file in [doc/newSubFolder](/../../new/master/doc/newSubFolder) 
+
+ask to upload to [doc/](/../../upload/master/doc/) 
+
+
