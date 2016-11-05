@@ -7,3 +7,5 @@ the [Doc](/doc)
 the [real root](/)
 
 the [real root](../)
+
+[tricky root](/../../)
