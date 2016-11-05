@@ -1,25 +1,15 @@
-the [Root](/README.md)
+the [Root](/../../)
 
-the [Root](../README.md)
+the [doc](./)
 
-the [Doc](/doc)
+the [doc/readme.md](./readme.md)
 
-the [real root](/)
+edit [doc/readme.md](/../../edit/master/doc/readme.md) 
 
-the [real root](../)
+history [doc/readme.md](/../../commits/master/doc/readme.mdd) 
 
-the [tricky root](/../../)
+delete(!) [doc/readme.md](/../../delete/master/doc/readme.md)
 
-the [tricky root](../../../)
+blame [doc/readme.md](/../../blame/master/doc/readme.md)
 
-<base target="_blank"> 
-
-<span style="color: red;"> I'm RED </span>
-
-<b> bold </b>
-
-<red> red </red>
-
-<h1 style="color:blue;margin-left:30px;">This is a heading.</h1>
-
-<a href="/../../">New Tab</a>
+raw file [doc/readme.md](/../../raw/master/doc/readme.md) 
