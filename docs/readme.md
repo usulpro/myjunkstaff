@@ -1,5 +1,5 @@
-[<img src="doc/logoReact-theming.png" align="left" class="logo" height="88" width="550"/>](https://github.com/sm-react/react-theming)
 
+[![React-Theming](doc/logoReact-theming.png)](https://github.com/sm-react/react-theming)
 RT provides a set of tools for developing themable React apps with React-Storybook under the hood. This project includes three main parts:
 
 
@@ -13,4 +13,4 @@ RT provides a set of tools for developing themable React apps with React-Storybo
 ### Boilerplate Project
 
 At the heart of this project the desire to collect the best practices of application development via React-Storybook environment
-
+[<img src="doc/logoReact-theming.png" align="left" class="logo" height="88" width="550"/>](https://github.com/sm-react/react-theming)
