@@ -21,15 +21,15 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 
 - React Storybook Addons
 
-- - [React Storybook Info Addon](https://github.com/storybooks/react-storybook-addon-info)
+ - [React Storybook Info Addon](https://github.com/storybooks/react-storybook-addon-info)
 
-- - [Storybook Addon Notes](https://github.com/storybooks/storybook-addon-notes)
+ - [Storybook Addon Notes](https://github.com/storybooks/storybook-addon-notes)
 
-- - [Storybook Addon Actions](https://github.com/storybooks/storybook-addon-actions) (included by default)
+ - [Storybook Addon Actions](https://github.com/storybooks/storybook-addon-actions) (included by default)
 
-- - [Storybook Addon Knobs ](https://github.com/storybooks/storybook-addon-knobs)
+ - [Storybook Addon Knobs ](https://github.com/storybooks/storybook-addon-knobs)
 
-- - [Storybook Addon Material-UI](https://github.com/sm-react/storybook-addon-material-ui)
+ - [Storybook Addon Material-UI](https://github.com/sm-react/storybook-addon-material-ui)
 
 
 
