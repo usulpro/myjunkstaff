@@ -1,13 +1,13 @@
 
-# [![React-Theming](doc/logo-small.png)](https://github.com/sm-react/react-theming)
+[![React-Theming](doc/logo-small.png)](https://github.com/sm-react/react-theming)
 
-RT provides a set of tools for developing themable React apps with React-Storybook under the hood. This project includes three main parts:
+React-Theming provides a set of tools for developing themable React apps with React-Storybook under the hood. This project includes three main parts:
 
-
-[Addon for Storybook](https://github.com/sm-react/storybook-addon-material-ui) | The core of React-Theming | [![Live demo](https://img.shields.io/badge/Live%20Demo-%20Storybook-brightgreen.svg)](https://sm-react.github.io/storybook-addon-material-ui)  [![npm version](https://badge.fury.io/js/storybook-addon-material-ui.svg)](https://badge.fury.io/js/storybook-addon-material-ui)  [![GitHub stars](https://img.shields.io/github/stars/sm-react/storybook-addon-material-ui.svg?style=social&label=Star)](https://github.com/sm-react/storybook-addon-material-ui)
+ :small_red_triangle_down: | :small_red_triangle_down:  |  :small_red_triangle_down:  
 ----------- | ----------------- | --------------------
+[Addon for Storybook](https://github.com/sm-react/storybook-addon-material-ui) | The core of React-Theming | [![Live demo](https://img.shields.io/badge/Live%20Demo-%20Storybook-brightgreen.svg)](https://sm-react.github.io/storybook-addon-material-ui)  [![npm version](https://badge.fury.io/js/storybook-addon-material-ui.svg)](https://badge.fury.io/js/storybook-addon-material-ui)  [![GitHub stars](https://img.shields.io/github/stars/sm-react/storybook-addon-material-ui.svg?style=social&label=Star)](https://github.com/sm-react/storybook-addon-material-ui)
 [React Theme Provider](https://github.com/sm-react/react-theme-provider) | A generic theme provider and (very) simple CSS styler | [![Live demo](https://img.shields.io/badge/Live%20Demo-%20Storybook-brightgreen.svg)](https://sm-react.github.io/react-theme-provider)  [![npm version](https://badge.fury.io/js/react-theme-provider.svg)](https://badge.fury.io/js/react-theme-provider)    [![GitHub stars](https://img.shields.io/github/stars/sm-react/react-theme-provider.svg?style=social&label=Star)](https://github.com/sm-react/react-theme-provider)
-[The boilerplate project](https://github.com/sm-react/react-theme-provider) | Starting point for apps development | [![Live demo](https://img.shields.io/badge/Live%20Demo-%20Storybook-brightgreen.svg)](https://sm-react.github.io/react-theming) [GitHub stars](https://img.shields.io/github/stars/sm-react/react-theming.svg?style=social&label=Star)](https://github.com/sm-react/react-theming)
+[The boilerplate project](https://github.com/sm-react/react-theme-provider) | Starting point for apps development | [![Live demo](https://img.shields.io/badge/Live%20Demo-%20Storybook-brightgreen.svg)](https://sm-react.github.io/react-theming) [![GitHub stars](https://img.shields.io/github/stars/sm-react/react-theming.svg?style=social&label=Star)](https://github.com/sm-react/react-theming)
 
 ---
 
