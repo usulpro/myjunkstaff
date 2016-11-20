@@ -1,5 +1,9 @@
 
-# [<img src="doc/logo-small.png" align="left" class="logo" width="280"/>](https://github.com/sm-react/react-theming) [![GitHub version](https://badge.fury.io/gh/sm-react%2Freact-theming.svg)](https://badge.fury.io/gh/sm-react%2Freact-theming)
+# [<img src="doc/logo-small.png" align="left" class="logo" width="280"/>](https://github.com/sm-react/react-theming) 
+
+##
+
+[![GitHub version](https://badge.fury.io/gh/sm-react%2Freact-theming.svg)](https://badge.fury.io/gh/sm-react%2Freact-theming)
 
 
 **React-Theming** provides a set of tools for developing themable React apps with **React-Storybook** under the hood. This project includes three main parts:
