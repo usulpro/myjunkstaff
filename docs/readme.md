@@ -23,19 +23,19 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 
 - React Storybook Addons:
 
- - <img src="doc/msm.png" alt="Milestone" width="22"> [React Storybook Info Addon](https://github.com/storybooks/react-storybook-addon-info) - *show additional <b>information</b> for your stories*
+ - [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) [React Storybook Info Addon](https://github.com/storybooks/react-storybook-addon-info) - *show additional <b>information</b> for your stories*
 
- - <img src="doc/msm.png" alt="Milestone" width="22"> [Storybook Addon Notes](https://github.com/storybooks/storybook-addon-notes) - *allows you to write <b>notes</b> for your stories*
+ - [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) [Storybook Addon Notes](https://github.com/storybooks/storybook-addon-notes) - *allows you to write <b>notes</b> for your stories*
 
  - [Storybook Addon Actions](https://github.com/storybooks/storybook-addon-actions) (included by default) - *the <b>Action Logger</b> addon can be used to display data received by event handlers*
 
- - <img src="doc/msm.png" alt="Milestone" width="22"> [Storybook Addon Knobs ](https://github.com/storybooks/storybook-addon-knobs) - *allows you to <b>edit</b> React props dynamically*
+ - [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) [Storybook Addon Knobs ](https://github.com/storybooks/storybook-addon-knobs) - *allows you to <b>edit</b> React props dynamically*
 
  - [Storybook Addon Material-UI](https://github.com/sm-react/storybook-addon-material-ui) - *provides live <b>theme</b> creating environment to React Storybook*
 
 - Testing:
 
- - <img src="doc/msm.png" alt="Milestone" width="22"> [StoryShots](https://github.com/storybooks/storyshots) - *provides [Snapshot Testing](https://facebook.github.io/jest/blog/2016/07/27/jest-14.html) for React Storybook*
+ - [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) [StoryShots](https://github.com/storybooks/storyshots) - *provides [Snapshot Testing](https://facebook.github.io/jest/blog/2016/07/27/jest-14.html) for React Storybook*
  
  - [Mocha](https://github.com/mochajs/mocha) and [Enzyme](https://github.com/airbnb/enzyme)
 
@@ -47,7 +47,7 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 
 - Workflow *(via NPM scripts command)*:
 
- - <img src="doc/msm.png" alt="Milestone" width="22"> Build your App with [Webpack](https://github.com/webpack/webpack) and [Babel](https://github.com/babel/babel)
+ - [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) Build your App with [Webpack](https://github.com/webpack/webpack) and [Babel](https://github.com/babel/babel)
  
  - Publish transpiled code into NPM
  
@@ -61,9 +61,9 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 
 ### Roadmap
 
-<img src="doc/msm.png" alt="Milestone" width="22"> Add [Styled Components](https://github.com/styled-components/styled-components) support
+[<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) Add [Styled Components](https://github.com/styled-components/styled-components) support
 
-<img src="doc/msm.png" alt="Milestone" width="22"> Deploy your App to GitHub Pages
+[<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) Deploy your App to GitHub Pages
 
 
 
