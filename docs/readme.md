@@ -66,6 +66,12 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 
 [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) Suggest your [feature](/../../issues) wich you'd like to see here!
 
+[<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) [storybook-addon-comments](https://github.com/storybooks/storybook-addon-comments) - *allows you to add comments for your stories*
+
+[<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) [storybook-addon-options](https://github.com/storybooks/storybook-addon-options) - *set configure the Storybook UI*
+
+[<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) Short tutorial for using this tools
+
 ### Quick start
 
 ```shell
