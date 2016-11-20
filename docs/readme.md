@@ -50,6 +50,8 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
  - Build your App with [Webpack](https://github.com/webpack/webpack) and [Babel](https://github.com/babel/babel)
  
  - Publish transpiled code into NPM
+ 
+ - Run tests
 
  - [ESLint](https://github.com/eslint/eslint) with the [Airbnb style guide](https://github.com/airbnb/javascript)
  
@@ -59,3 +61,5 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 
 
 ### Roadmap
+
+[] Add [https://github.com/styled-components/styled-components](https://github.com/styled-components/styled-components)
