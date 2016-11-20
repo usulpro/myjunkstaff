@@ -48,11 +48,14 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 - Workflow *(via NPM scripts command)*:
 
  - Build your App with [Webpack](https://github.com/webpack/webpack) and [Babel](https://github.com/babel/babel)
-
- - ESLint with the [Airbnb style guide](https://github.com/airbnb/javascript)
  
  - Publish transpiled code into NPM
+
+ - [ESLint](https://github.com/eslint/eslint) with the [Airbnb style guide](https://github.com/airbnb/javascript)
  
  - Deploy your storybook to GitHub Pages
+ 
+ - Deploy your App to GitHub Pages ([roadmap](#roadmap))
 
 
+### Roadmap
