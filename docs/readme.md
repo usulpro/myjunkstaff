@@ -58,12 +58,23 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
  - Deploy your storybook to GitHub Pages
  
 
-
 ### Roadmap
 
 [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) Add [Styled Components](https://github.com/styled-components/styled-components) support
 
 [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) Deploy your App to GitHub Pages
 
+[<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) Suggest your [feature](/../../issues) wich you'd like to see here!
 
+### Quick start
 
+```shell
+git clone
+cd react-theming
+npm i
+npm start
+```
+
+### Contribute
+
+We'll appreciate any help, ideas, issues and feedback!
