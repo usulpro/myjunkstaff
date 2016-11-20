@@ -57,9 +57,14 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
  
  - Deploy your storybook to GitHub Pages
  
- - Deploy your App to GitHub Pages ([roadmap](#roadmap))
+
 
 
 ### Roadmap
 
-[] Add [https://github.com/styled-components/styled-components](https://github.com/styled-components/styled-components)
+- Add [Styled Components](https://github.com/styled-components/styled-components)
+
+- Deploy your App to GitHub Pages
+
+
+
