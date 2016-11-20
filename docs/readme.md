@@ -25,15 +25,15 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 
  - [React Storybook Info Addon](https://github.com/storybooks/react-storybook-addon-info) - *show additional <b>information</b> for your stories*
 
- - [Storybook Addon Notes](https://github.com/storybooks/storybook-addon-notes) - *allows you to write **notes** for your stories*
+ - [Storybook Addon Notes](https://github.com/storybooks/storybook-addon-notes) - *allows you to write <b>notes</b> for your stories*
 
- - [Storybook Addon Actions](https://github.com/storybooks/storybook-addon-actions) (included by default) - *the **Action Logger** addon can be used to display data received by event handlers*
+ - [Storybook Addon Actions](https://github.com/storybooks/storybook-addon-actions) (included by default) - *the <b>Action Logger</b> addon can be used to display data received by event handlers*
 
- - [Storybook Addon Knobs ](https://github.com/storybooks/storybook-addon-knobs) - *allows you to **edit** React props dynamically*
+ - [Storybook Addon Knobs ](https://github.com/storybooks/storybook-addon-knobs) - *allows you to <b>edit</b> React props dynamically*
 
- - [Storybook Addon Material-UI](https://github.com/sm-react/storybook-addon-material-ui) - *provides live **theme** creating environment to React Storybook*
+ - [Storybook Addon Material-UI](https://github.com/sm-react/storybook-addon-material-ui) - *provides live <b>theme</b> creating environment to React Storybook*
 
-- [StoryShots](https://github.com/storybooks/storyshots) - *Snapshot **Testing** for React Storybook*
+- [StoryShots](https://github.com/storybooks/storyshots) - *Snapshot <b>Testing</b> for React Storybook*
 
 - React ecosystem:
 
