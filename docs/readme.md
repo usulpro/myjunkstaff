@@ -33,7 +33,11 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 
  - [Storybook Addon Material-UI](https://github.com/sm-react/storybook-addon-material-ui) - *provides live <b>theme</b> creating environment to React Storybook*
 
-- [StoryShots](https://github.com/storybooks/storyshots) - *Snapshot <b>Testing</b> for React Storybook*
+- Testing:
+
+ - [StoryShots](https://github.com/storybooks/storyshots) - *[Snapshot Testing](https://facebook.github.io/jest/blog/2016/07/27/jest-14.html) for React Storybook*
+ 
+ - [Mocha](https://github.com/mochajs/mocha) and [Enzyme](https://github.com/airbnb/enzyme)
 
 - React ecosystem:
 
@@ -41,7 +45,7 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
  
  - [React Theme Provider](https://github.com/sm-react/react-theme-provider)
 
- 
+- Workflow:
 
 
 
