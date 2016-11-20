@@ -27,25 +27,17 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 
  - [Storybook Addon Notes](https://github.com/storybooks/storybook-addon-notes) - *allows you to write notes for your stories*
 
- - [Storybook Addon Actions](https://github.com/storybooks/storybook-addon-actions) (included by default)
+ - [Storybook Addon Actions](https://github.com/storybooks/storybook-addon-actions) (included by default) - *The Action Logger addon can be used to display data received by event handlers*
 
-*The Action Logger addon can be used to display data received by event handlers*
+ - [Storybook Addon Knobs ](https://github.com/storybooks/storybook-addon-knobs) - *allows you to edit React props dynamically*
 
- - [Storybook Addon Knobs ](https://github.com/storybooks/storybook-addon-knobs)
+ - [Storybook Addon Material-UI](https://github.com/sm-react/storybook-addon-material-ui) - *provides theme creating environment to React Storybook*
 
-*allows you to edit React props dynamically*
-
- - [Storybook Addon Material-UI](https://github.com/sm-react/storybook-addon-material-ui)
-
-*provides theme creating environment to React Storybook*
-
-- [StoryShots](https://github.com/storybooks/storyshots)
-
-*Snapshot Testing for React Storybook*
+- [StoryShots](https://github.com/storybooks/storyshots) - *Snapshot Testing for React Storybook*
 
 - React ecosystem:
 
- - [Material-UI](http://www.material-ui.com/#/)
+ - [Material-UI](http://www.material-ui.com/#/) - *via [Storybook Addon Material-UI](https://github.com/sm-react/storybook-addon-material-ui)*
  
  - [React Theme Provider](https://github.com/sm-react/react-theme-provider)
 
