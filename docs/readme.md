@@ -23,7 +23,7 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 
 - React Storybook Addons:
 
- - [React Storybook Info Addon](https://github.com/storybooks/react-storybook-addon-info) - *show additional **information** for your stories*
+ - [React Storybook Info Addon](https://github.com/storybooks/react-storybook-addon-info) - *show additional <b>information</b> for your stories*
 
  - [Storybook Addon Notes](https://github.com/storybooks/storybook-addon-notes) - *allows you to write **notes** for your stories*
 
