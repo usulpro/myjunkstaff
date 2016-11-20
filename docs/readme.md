@@ -19,17 +19,13 @@ At the heart of this project the desire to collect the best practices of applica
 
 It contains the *fully-charged* setup of the Storybook with **pre-installed plugins**, configuration, quick examples, and tips. Inspired by [Create React App](https://github.com/facebookincubator/create-react-app) and [React CDK](https://github.com/kadirahq/react-cdk).
 
-### Feaches
+### Features
 
-- React Storybook Addons
+- React Storybook Addons:
 
- - [React Storybook Info Addon](https://github.com/storybooks/react-storybook-addon-info)
+ - [React Storybook Info Addon](https://github.com/storybooks/react-storybook-addon-info) - *show additional information for your stories*
 
-*show additional information for your stories*
-
- - [Storybook Addon Notes](https://github.com/storybooks/storybook-addon-notes)
-
-*allows you to write notes for your stories*
+ - [Storybook Addon Notes](https://github.com/storybooks/storybook-addon-notes) - *allows you to write notes for your stories*
 
  - [Storybook Addon Actions](https://github.com/storybooks/storybook-addon-actions) (included by default)
 
