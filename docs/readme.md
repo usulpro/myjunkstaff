@@ -1,8 +1,11 @@
 
 # [<img src="doc/logo-small.png" align="left" class="logo" width="280"/>](https://github.com/sm-react/react-theming) 
+ 
+######
 
-###
-
+######
+ 
+ 
 **React-Theming** provides a set of tools for developing themable React apps with **React-Storybook** under the hood. This project includes three main parts:
 
  :small_blue_diamond: | :small_blue_diamond:  |  :small_blue_diamond:  | :small_blue_diamond:  |  :small_blue_diamond:  
