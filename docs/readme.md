@@ -84,3 +84,7 @@ npm start
 ### Contribute
 
 We'll appreciate any help, ideas, issues and feedback!
+
+<div align="right">
+<sub>Created with ❤︎ to <b>React</b> and <b>React Storybook</b> by <a href="https://twitter.com/UsulPro">UsulPro</a>.</sub>
+</div>
