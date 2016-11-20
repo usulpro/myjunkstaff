@@ -35,7 +35,7 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 
 - Testing:
 
- - [StoryShots](https://github.com/storybooks/storyshots) - *[Snapshot Testing](https://facebook.github.io/jest/blog/2016/07/27/jest-14.html) for React Storybook*
+ - [StoryShots](https://github.com/storybooks/storyshots) - *provides [Snapshot Testing](https://facebook.github.io/jest/blog/2016/07/27/jest-14.html) for React Storybook*
  
  - [Mocha](https://github.com/mochajs/mocha) and [Enzyme](https://github.com/airbnb/enzyme)
 
@@ -45,8 +45,14 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
  
  - [React Theme Provider](https://github.com/sm-react/react-theme-provider)
 
-- Workflow:
+- Workflow *(via NPM scripts command)*:
 
+ - Build your App with [Webpack](https://github.com/webpack/webpack) and [Babel](https://github.com/babel/babel)
 
+ - ESLint with the [Airbnb style guide](https://github.com/airbnb/javascript)
+ 
+ - Publish transpiled code into NPM
+ 
+ - Deploy your storybook to GitHub Pages
 
 
