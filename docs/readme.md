@@ -75,10 +75,11 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 ### Quick start
 
 ```shell
-git clone
+git clone https://github.com/sm-react/react-theming.git
 cd react-theming
 npm i
 npm start
+start http://localhost:9001/
 ```
 
 ### Contribute
