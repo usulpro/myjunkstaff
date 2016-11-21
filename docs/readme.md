@@ -87,8 +87,16 @@ git clone https://github.com/sm-react/react-theming.git
 cd react-theming
 npm i
 npm start
-start http://localhost:9001/
 ```
+
+
+Open http://localhost:9001/ in your browser for any OS.
+
+You will see demo page provided by React Storybook.
+
+Press `Ctrl-Shft-F` to exit from `Full screen` mode.
+
+
 
 ### FAQ
 
