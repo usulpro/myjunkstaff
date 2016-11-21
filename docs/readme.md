@@ -1,5 +1,9 @@
 
 [<img src="doc/logo-small.png" align="left" class="logo" width="280"/>](https://github.com/sm-react/react-theming) 
+<div align="right">
+<sub>Created with ❤︎ to <b>React</b> and <b>React Storybook</b> by <a href="https://twitter.com/UsulPro">UsulPro</a>.</sub>
+</div>
+
 **React-Theming** provides a set of tools for developing themable React apps with **React-Storybook** under the hood. This project includes three main parts:
 
  :small_blue_diamond: | :small_blue_diamond:  |  :small_blue_diamond:  | :small_blue_diamond:  |  :small_blue_diamond:  
@@ -86,6 +90,3 @@ start http://localhost:9001/
 
 We'll appreciate any help, ideas, issues and feedback!
 
-<div align="right">
-<sub>Created with ❤︎ to <b>React</b> and <b>React Storybook</b> by <a href="https://twitter.com/UsulPro">UsulPro</a>.</sub>
-</div>
