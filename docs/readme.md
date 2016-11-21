@@ -1,5 +1,6 @@
 
 [<img src="doc/logo-small.png" align="left" class="logo" width="280"/>](https://github.com/sm-react/react-theming) 
+
 <div align="right">
 <sub>Created with ❤︎ to <b>React</b> and <b>React Storybook</b> by <a href="https://twitter.com/UsulPro">UsulPro</a>.</sub>
 </div>
