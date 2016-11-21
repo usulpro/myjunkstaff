@@ -2,7 +2,7 @@
 [<img src="doc/logo-small.png" align="left" class="logo" width="280"/>](https://github.com/sm-react/react-theming) 
 
 <div align="center" style="height: 16px;"><sub>Created with ❤︎ to <b>React</b> and <b>React Storybook</b> by <a href="https://twitter.com/UsulPro">UsulPro</a>.</sub></div>
-
+<div align="center"></div>
 
 **React-Theming** provides a set of tools for developing themable React apps with **React-Storybook** under the hood. This project includes three main parts:
 
