@@ -23,6 +23,8 @@ At the heart of this project the desire to collect the best practices of applica
 
 It contains the *fully-charged* setup of the Storybook with **pre-installed plugins**, configuration, quick examples, and tips. Inspired by [Create React App](https://github.com/facebookincubator/create-react-app) and [React CDK](https://github.com/kadirahq/react-cdk).
 
+--
+
 ### Features
 
 - React Storybook Addons:
@@ -63,6 +65,7 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
  
  - Deploy your storybook to GitHub Pages
  
+--
 
 ### Roadmap
 
@@ -80,6 +83,8 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 
 [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) Short tutorial for using this tools
 
+--
+
 ### Quick start
 
 ```shell
@@ -89,6 +94,7 @@ npm i
 npm start
 ```
 
+[<img src="doc/npm-start.png" align="left" class="logo" width="565"/>](https://github.com/sm-react/react-theming) 
 
 Open http://localhost:9001/ in your browser for any OS.
 
@@ -97,6 +103,8 @@ You will see demo page provided by React Storybook.
 Press `Ctrl-Shft-F` to exit from `Full screen` mode.
 
 
+
+--
 
 ### FAQ
 
@@ -111,6 +119,9 @@ Yes! You still have a powerfull dev environment with React Storybook addons, tes
 - I'd like to see my [favorite tool](https://github.com/facebook/react/wiki/Complementary-Tools) in this project.
 
 Create an [issue](/../../issues) with your suggestion. We'll be glad to discuss it and we love adding new features!
+
+
+--
 
 ### Contribute
 
