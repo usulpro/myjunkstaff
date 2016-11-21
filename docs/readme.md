@@ -51,6 +51,8 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 
 - Workflow *(via NPM scripts command)*:
 
+ - Support for Linux, macOS, and Windows
+
  - [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) Build your App with [Webpack](https://github.com/webpack/webpack) and [Babel](https://github.com/babel/babel)
  
  - Publish transpiled code into NPM
@@ -63,6 +65,8 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
  
 
 ### Roadmap
+
+[<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) Add support for **Storybook 3** features
 
 [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) Add [Styled Components](https://github.com/styled-components/styled-components) support
 
@@ -85,6 +89,20 @@ npm i
 npm start
 start http://localhost:9001/
 ```
+
+### FAQ
+
+- I'm not going to create a themable app. Will I find something usefull in this boilerplate project?
+
+Yes! You still have a powerfull dev environment with React Storybook addons, testing and workflow features.
+
+- I'm not going to use Material-UI (any other tool) in my app. Will I find something usefull in this boilerplate project?
+
+Yes! You still have a powerfull dev environment with React Storybook addons, testing and workflow features.
+
+- I'd like to see my [favorite tool](https://github.com/facebook/react/wiki/Complementary-Tools) in this project.
+
+Create an [issue](/../../issues) with your suggestion. We'll be glad to discuss it and we love adding new features!
 
 ### Contribute
 
