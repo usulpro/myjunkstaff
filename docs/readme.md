@@ -94,7 +94,7 @@ npm i
 npm start
 ```
 
-[<img src="doc/npm-start.png" align="left" class="logo" width="565"/>](https://github.com/sm-react/react-theming) 
+[<img src="doc/npm-start.png" align="left" class="logo" width="700"/>](https://raw.githubusercontent.com/UsulPro/myjunkstaff/master/docs/doc/npm-start.png) 
 
 Open http://localhost:9001/ in your browser for any OS.
 
