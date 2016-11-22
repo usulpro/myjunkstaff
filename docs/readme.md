@@ -27,6 +27,8 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 
 ### Features
 
+Since we are now at the starting point, we mark with [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) icon features that will be implemented in the near future. See our further plans in the [roadmap](#roadmap) section.
+
 - React Storybook Addons:
 
  - [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) [React Storybook Info Addon](https://github.com/storybooks/react-storybook-addon-info) - *show additional <b>information</b> for your stories*
@@ -75,13 +77,13 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 
 [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) Deploy your App to GitHub Pages
 
-[<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) Suggest your [feature](/../../issues) wich you'd like to see here!
-
 [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) [storybook-addon-comments](https://github.com/storybooks/storybook-addon-comments) - *allows you to add comments for your stories*
 
 [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) [storybook-addon-options](https://github.com/storybooks/storybook-addon-options) - *set configure the Storybook UI*
 
 [<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) Short tutorial for using this tools
+
+[<img src="doc/msm.png" alt="Milestone" width="22">](#roadmap) Suggest your [feature](/../../issues) wich you'd like to see here!
 
 --
 
@@ -126,18 +128,21 @@ Okay, now let's look at the panel on the left. In fact, our application consists
 
 ### FAQ
 
-- I'm not going to create a themable app. Will I find something usefull in this boilerplate project?
+##### I'm not going to create a themable app. Will I find something usefull in this boilerplate project?
 
 Yes! You still have a powerfull dev environment with React Storybook addons, testing and workflow features.
 
-- I'm not going to use Material-UI (any other tool) in my app. Will I find something usefull in this boilerplate project?
+##### I'm not going to use Material-UI (any other tool) in my app. Will I find something usefull in this boilerplate project?
 
 Yes! You still have a powerfull dev environment with React Storybook addons, testing and workflow features.
 
-- I'd like to see my [favorite tool](https://github.com/facebook/react/wiki/Complementary-Tools) in this project.
+##### I'd like to see my [favorite tool](https://github.com/facebook/react/wiki/Complementary-Tools) in this project.
 
 Create an [issue](/../../issues) with your suggestion. We'll be glad to discuss it and we love adding new features!
 
+##### What if I need some other package in my project?
+
+Just install it via `npm` or `yarn`. Since this project does not have any hidden configurations, you are free to continue to work with it as you normally would.
 
 --
 
