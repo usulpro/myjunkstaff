@@ -19,7 +19,7 @@
 [![GitHub version](https://badge.fury.io/gh/sm-react%2Freact-theming.svg)](https://badge.fury.io/gh/sm-react%2Freact-theming)
 [![Live demo](https://img.shields.io/badge/Live%20Demo-%20Storybook-brightgreen.svg)](https://sm-react.github.io/react-theming)
 
-At the heart of this project the desire to collect the best practices of application development via [React-Storybook](https://github.com/storybooks/react-storybook) environment.
+At the heart of this project the desire to collect the best practices of application development via [React-Storybook](https://github.com/storybooks/react-storybook) environment. This project is transparent and friendly for developers. You do not need to eject anything. Therefore you can easily add your own configuration and extend it using any packages.
 
 It contains the *fully-charged* setup of the Storybook with **pre-installed plugins**, configuration, quick examples, and tips. Inspired by [Create React App](https://github.com/facebookincubator/create-react-app) and [React CDK](https://github.com/kadirahq/react-cdk).
 
@@ -124,7 +124,7 @@ When you feel enough to edit your theme, you can save it for future use. Press [
 
 Okay, now let's look at the panel on the left. In fact, our application consists of two components: `src/Header.jsx` and `src/Intro.jsx`. Selecting the appropriate items in the left-side list you switch to an isolated view of the component. It's how `React Storybook` works - allows you 'step-by-step' to create and works with React components. You can improve the quality of development by applying different addons to Storybook. Most of them is already pre-installed in this project. You will find excellent [documentation and examples](https://getstorybook.io/docs/) on the React Storybook website.
 
---
+---
 
 ### FAQ
 
@@ -148,7 +148,7 @@ Create an [issue](/../../issues) with your suggestion. We'll be glad to discuss 
 
 Just install it via `npm` or `yarn`. Since this project does not have any hidden configurations, you are free to continue to work with it as you normally would.
 
---
+---
 
 ### Contribute
 
