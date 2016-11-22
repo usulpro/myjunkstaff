@@ -128,18 +128,22 @@ Okay, now let's look at the panel on the left. In fact, our application consists
 
 ### FAQ
 
+--
 ##### I'm not going to create a themable app. Will I find something usefull in this boilerplate project?
 
 Yes! You still have a powerfull dev environment with React Storybook addons, testing and workflow features.
 
+--
 ##### I'm not going to use Material-UI (any other tool) in my app. Will I find something usefull in this boilerplate project?
 
 Yes! You still have a powerfull dev environment with React Storybook addons, testing and workflow features.
 
+--
 ##### I'd like to see my [favorite tool](https://github.com/facebook/react/wiki/Complementary-Tools) in this project.
 
 Create an [issue](/../../issues) with your suggestion. We'll be glad to discuss it and we love adding new features!
 
+--
 ##### What if I need some other package in my project?
 
 Just install it via `npm` or `yarn`. Since this project does not have any hidden configurations, you are free to continue to work with it as you normally would.
