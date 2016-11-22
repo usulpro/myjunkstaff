@@ -98,7 +98,7 @@ npm i
 npm start
 ```
 
-[<img src="doc/npm-start.png" align="right" class="logo" width="500"/>](https://raw.githubusercontent.com/UsulPro/myjunkstaff/master/docs/doc/npm-start.png) 
+[<img src="doc/npm-start.png" align="right" class="logo" width="500" title="launching the Storybook"/>](https://raw.githubusercontent.com/UsulPro/myjunkstaff/master/docs/doc/npm-start.png) 
 
 Open http://localhost:9001/ in your browser.
 
