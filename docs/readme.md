@@ -110,11 +110,15 @@ Two panel will appear. You will see the list of `stories` at the left panel and 
 
 Let's select another theme for this page. Do it via dropdown list at the bottom panel. Out of the box there are three themes: 'Light', 'Dark' and 'Gray'. Check out them.
 
+[<img src="doc/left-pane.png" align="left" width="200" title="Left Storybook panel"/>](https://raw.githubusercontent.com/UsulPro/myjunkstaff/master/docs/doc/left-pane.png) 
+
 Note the text field with the full theme data. You can change any property and instantly see how the result will affect the appearance of the page. But the best way to edit theme is to use `Theme Editor`. 
 
 Click to `Show Theme Editor`. It'll open a panel with a list of all theme props at the right. Click to any colored box in this list to open the color picker tool, for example on `textColor`. Now you can move your mouse over the color swatches and see how the color of text is changing.
 
-When you feel enough to edit your theme, you can save it for future use. Press [<img src="doc/save-btn.png" width="20"/>](#you-will-see-the-demo-page-provided-by-react-storybook) to create a JSON file with your theme. Put it to `src/themes/` folder in your project to include it to your theme list automatically. **Note**: you don't need to restart your app after adding a new theme-file to this folder, just refresh your browser. **Roadmap** we are working to eliminate even this need to refresh the page after adding a file.
+[<img src="doc/bottom-pane.png" align="right" width="600" title="Bottom theming panel"/>](https://raw.githubusercontent.com/UsulPro/myjunkstaff/master/docs/doc/bottom-pane.png) 
+
+When you feel enough to edit your theme, you can save it for future use. Press [<img src="doc/save-btn.png" width="20"/>](#you-will-see-the-demo-page-provided-by-react-storybook) to create a JSON file with your theme. Put it to `src/themes/` folder in your project to include it to your theme list automatically. **Note**: you don't need to restart your app after adding a new theme-file to this folder, just refresh your browser. **Roadmap**: we are working to eliminate even this need to refresh the page after adding a file.
 
 Okay, now let's look at the panel on the left. In fact, our application consists of two components: `src/Header.jsx` and `src/Intro.jsx`. Selecting the appropriate items in the left-side list you switch to an isolated view of the component. It's how `React Storybook` works - allows you 'step-by-step' to create and works with React components. You can improve the quality of development by applying different addons to Storybook. Most of them is already pre-installed in this project. You will find excellent [documentation and examples](https://getstorybook.io/docs/) on the React Storybook website.
 
