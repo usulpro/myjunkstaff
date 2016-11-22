@@ -91,14 +91,14 @@ It contains the *fully-charged* setup of the Storybook with **pre-installed plug
 
 tip: you can skip this step if you only want to look at this project. Just open [live demo](https://sm-react.github.io/react-theming) page and jump to [here](#you-will-see-the-demo-page-provided-by-react-storybook)
 
-[<img src="doc/npm-start.png" align="right" class="logo" width="500"/>](https://raw.githubusercontent.com/UsulPro/myjunkstaff/master/docs/doc/npm-start.png) 
-
 ```shell
 git clone https://github.com/sm-react/react-theming.git
 cd react-theming
 npm i
 npm start
 ```
+
+[<img src="doc/npm-start.png" align="right" class="logo" width="500"/>](https://raw.githubusercontent.com/UsulPro/myjunkstaff/master/docs/doc/npm-start.png) 
 
 Open http://localhost:9001/ in your browser.
 
