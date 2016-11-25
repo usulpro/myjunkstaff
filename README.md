@@ -15,10 +15,10 @@
 <details>
   <summary>
   Linting
-  `
+  ```
     npm lint
     npm lintfix
-  `
+  ```
 
   </summary>
 
