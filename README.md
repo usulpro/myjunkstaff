@@ -14,7 +14,7 @@
 
 <details>
   <summary>
-  Linting
+  ##### Linting
   ```
     npm lint
     npm lintfix
