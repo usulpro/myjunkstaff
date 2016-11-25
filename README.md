@@ -14,7 +14,7 @@
 
 <details>
   <summary>
-  ##### Linting
+  <h5>Linting</h5>
   ```
     npm lint
     npm lintfix
