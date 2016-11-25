@@ -15,10 +15,10 @@
 <details>
   <summary>
   <b>Linting</b>
-  ```
-    npm lint
-    npm lintfix
-  ```
+  
+    `npm lint` - lints your code within 'src' folder
+    
+    `npm lintfix` - tries to fix linting errors
 
   </summary>
 
