@@ -14,9 +14,9 @@
 
 <details>
   <summary>
-  <b>Linting</b> <br> `npm lint` # lints your code within 'src' folder
+  <b>Linting</b> <br><br> `npm lint` - lints your code within `src` folder <br> `npm lintfix` - tries to fix linting errors
     
-    npm lintfix # tries to fix linting errors
+    
 
   </summary>
 
