@@ -14,7 +14,7 @@
 
 <details>
   <summary>
-  <b>Linting</b> <br><br> `npm lint` - lints your code within `src` folder <br> `npm lintfix` - tries to fix linting errors
+  <b>Linting</b> <br><br> `npm lint` - lints your code within `src` folder <br> `npm lintfix` - tries to fix linting errors <br><br>
     
     
 
@@ -39,7 +39,9 @@
  [![npm downloads](https://img.shields.io/npm/dm/react-scrollbar.svg?style=flat-square)](https://www.npmjs.org/package/react-scrollbar)
  
 </details>
- 
+
+--
+
 [root](./)
 
 <p>
