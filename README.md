@@ -43,3 +43,7 @@
 </details>
  
 [root](./)
+
+<p>
+Lorem ipsum <code>dollor euro</code>
+</p>
