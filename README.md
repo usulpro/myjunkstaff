@@ -12,9 +12,9 @@
 
 ### Scripts
 
-<details>
-  <summary width="300">
-  <b>Linting</b> <br><br> `npm lint` - lints your code within `src` folder <br> `npm lintfix` - tries to fix linting errors <br><br>
+<details width="300">
+  <summary>
+  <b>Linting</b> <br><br> `npm lint` - lints your code within `src` folder <br> `npm lintfix` - tries to fix linting errors <br>
     
     
 
