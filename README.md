@@ -50,4 +50,4 @@
 Lorem ipsum <code>dollor euro</code>
 </p>
 
-<div align="right"><sub><a href="https://twitter.com/UsulPro">@UsulPro</a>.</sub></div>
+<div align="right"><a href="https://twitter.com/UsulPro">@UsulPro</a></div>
