@@ -1,5 +1,5 @@
 # myjunkstaff
-[<img src="logo.jpg" align="right" class="logo" height="300" width="300"/>](https://github.com/erikras/styled-components-theme)
+[<img src="docs/doc/logoReact-theming.png" align="right" class="logo"/>](docs/doc/)
 [![@UsulPro](https://img.shields.io/badge/github-UsulPro-blue.svg)](https://github.com/UsulPro)
 [![@sm-react](https://img.shields.io/badge/github-smARTLight-red.svg)](https://github.com/sm-react)
 [![@airbnb](https://img.shields.io/badge/code%20style-Airbnb-brightgreen.svg)](https://github.com/airbnb/javascript)
