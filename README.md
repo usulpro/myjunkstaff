@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/UsulPro/myjunkstaff.png?label=ready&title=Ready)](https://waffle.io/UsulPro/myjunkstaff?utm_source=badge)
 # myjunkstaff
 [<img src="docs/doc/logoReact-theming.png" align="right" class="logo"/>](docs/doc/)
 [![@UsulPro](https://img.shields.io/badge/github-UsulPro-blue.svg)](https://github.com/UsulPro)
