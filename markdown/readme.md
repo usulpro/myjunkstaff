@@ -1,0 +1,17 @@
+<div align="center">
+  <h1>
+    <a href="https://storybookjs.github.io/storybook-addon-console">
+      <svg xmlns="http://www.w3.org/2000/svg" width="192" height="140"><g fill="none" fill-rule="evenodd"><rect fill="#2E1A5A" x="16" width="160" height="140" rx="4"/><path d="M46.891 44.54c-2.617-2.41-2.616-6.426.001-8.833 2.474-2.276 6.39-2.276 8.864 0l29.21 26.88c1.262 1.16 1.963 2.751 1.963 4.415 0 1.663-.701 3.255-1.962 4.416L55.76 98.293c-2.474 2.276-6.39 2.276-8.864 0-2.618-2.408-2.618-6.424 0-8.833l24.406-22.458-24.41-22.463z" fill="#FFF" fill-rule="nonzero"/><path d="M98.634 88.573h42.732a5.71 5.71 0 0 1 5.705 5.714 5.71 5.71 0 0 1-5.705 5.713H98.634a5.71 5.71 0 0 1-5.705-5.713 5.71 5.71 0 0 1 5.705-5.714z" fill-opacity=".2" fill="#FFF"/></g></svg>
+    </a>
+    Storybook Addon Console</h1>
+
+</div>
+
+<br />
+
+
+Redirects console output into Action Logger Panel
+
+## how to use
+
+lorem ipsume
