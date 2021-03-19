@@ -13,8 +13,9 @@ jobs:
       - uses: actions/checkout@v2
       - name: Get Github branch
         shell: bash
-        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        run: echo "##[set-output name=branch;]$(echo ${${GITHUB_REF#refs/heads/}//[\/]/-})"
         id: feature_branch
+        
       
       - run: echo 'deployed to https://${{ steps.feature_branch.outputs.branch }}--staging-tipico-cms.netlify.app/platform/'
 
