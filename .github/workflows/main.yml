@@ -17,3 +17,5 @@ jobs:
         id: feature_branch
       
       - run: echo 'deployed to https://${{ steps.feature_branch.outputs.branch }}--staging-tipico-cms.netlify.app/platform/'
+
+
