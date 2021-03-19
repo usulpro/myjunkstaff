@@ -17,7 +17,8 @@ jobs:
         id: feature_branch
       - run: echo "::set-output name=action_fruit::strawberry"
         id: tp-output
-      - run: echo 'tp-output ${{ steps.tp-output.outputs.action_fruit }}'
+      - run: echo '::debug::tp-output ${{ steps.tp-output.outputs.action_fruit }}'
+      - run: echo '::warning::tp-output ${{ steps.tp-output.outputs.action_fruit }}'
       - run: echo 'deployed to https://${{ steps.feature_branch.outputs.branch }}--staging-tipico-cms.netlify.app/platform/'
 
 
