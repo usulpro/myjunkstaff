@@ -15,8 +15,9 @@ jobs:
         shell: bash
         run: GB=${GITHUB_REF#refs/heads/} echo "##[set-output name=branch;]$(echo ${GB//[\/]/-})"
         id: feature_branch
-        
-      
+      - run: echo "::set-output name=action_fruit::strawberry"
+        id: tp-output
+      - run: echo 'tp-output ${{ steps.tp-output.outputs.action_fruit }}'
       - run: echo 'deployed to https://${{ steps.feature_branch.outputs.branch }}--staging-tipico-cms.netlify.app/platform/'
 
 
