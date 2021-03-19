@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Get Github branch
         shell: bash
-        run: echo "##[set-output name=branch;]$(echo ${${GITHUB_REF#refs/heads/}//[\/]/-})"
+        run: GB=${GITHUB_REF#refs/heads/} echo "##[set-output name=branch;]$(echo ${GB//[\/]/-})"
         id: feature_branch
         
       
